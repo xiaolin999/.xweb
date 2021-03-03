@@ -1,9 +1,9 @@
-display_name=jable|最新更新
+display_name=netflav1|最受欢迎
 type=landscape
 cat=av
 page_number=177
-page1_url=https://jable.tv/latest-updates/1/
-page2_url_pre=https://jable.tv/latest-updates/
+page1_url=https://www.netflav1.com/trending/1/
+page2_url_pre=https://www.netflav1.com/trending
 page2_url_suffix=/
 first_container_select=.site-content
 first_items_select=div.col-6
